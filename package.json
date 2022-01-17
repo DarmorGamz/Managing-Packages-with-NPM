@@ -3,6 +3,11 @@
 	"author": "Darren Morrison",
 	"version": "16.13.2",
 	"description": "Darren is a pretty cool dude!",
+	"keywords": [
+		"freecodecamp",
+		"Darren",
+		"Morrison"
+	],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
